@@ -1,4 +1,4 @@
-package designprinciple.unitaryprinciple.improve;
+package designprinciple.unitary.improve;
 
 /**
  * @author fengfan
