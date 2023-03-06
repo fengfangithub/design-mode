@@ -1,4 +1,4 @@
-package mode.abs;
+package mode.absfactory;
 
 /**
  * @author fengfan
