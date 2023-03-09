@@ -6,7 +6,7 @@ package mode.single;
  * @since JDK1.8
  */
 public class SingleLazy3 {
-    private static SingleLazy3 singleLazy;
+    private static volatile SingleLazy3 singleLazy;
 
     private SingleLazy3() {
     }
