@@ -24,6 +24,6 @@ public class TextFile extends AbstractFile{
 
     @Override
     protected void print() {
-        System.out.println("TxT名称：" + name + ".jpg");
+        System.out.println("TxT名称：" + name + ".txt");
     }
 }
